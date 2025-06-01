@@ -1,5 +1,5 @@
 scripts:
-  - <script rel="prefetch" async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  # - <script rel="prefetch" async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   - <script rel="preload" src="https://unpkg.com/blueimp-md5@^2.19.0/js/md5.min.js"></script>
   - <script rel="preload" src="https://unpkg.com/lodash@^4.17.21/lodash.min.js"></script>
 
